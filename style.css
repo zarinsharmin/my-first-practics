@@ -25,6 +25,7 @@ body{
 .center-position{
     text-align: center;
     color: white;
+    font-size: 50px;
 }
 
 .green-color{
@@ -41,4 +42,26 @@ color:greenyellow;
     padding: 10px 30px;
     font-weight: 600;
     border-radius: 5px;
+}
+.Food-Item{
+    display: flex;
+    margin: 5px;
+    width: 50%;
+    
+    
+}
+.food-section{
+    width: 30%;
+    box-shadow:3px 4px 3px 3px skyblue;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 5px;
+}
+.food-img{
+    width:70%;
+}
+footer{
+    text-align: center;
+    color:violet
 }
